@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "أداة فحص جنائي رقمي واستخراج البيانات الوصفية للصور والفيديو والصوت والأجهزة مع تنظيف الخصوصية والتحليل الأمني عبر Gemini AI.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "forensic examination",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "forensic",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
